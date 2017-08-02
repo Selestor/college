@@ -1,0 +1,16 @@
+c:\users\roman\documents\visual studio 2015\Projects\IMAGEENE\IMAGEENE\bin\Debug\IMAGEENE.exe.config
+c:\users\roman\documents\visual studio 2015\Projects\IMAGEENE\IMAGEENE\bin\Debug\IMAGEENE.exe
+c:\users\roman\documents\visual studio 2015\Projects\IMAGEENE\IMAGEENE\bin\Debug\IMAGEENE.pdb
+c:\users\roman\documents\visual studio 2015\Projects\IMAGEENE\IMAGEENE\obj\Debug\IMAGEENE.csprojResolveAssemblyReference.cache
+c:\users\roman\documents\visual studio 2015\Projects\IMAGEENE\IMAGEENE\obj\Debug\IMAGEENE.Properties.Resources.resources
+c:\users\roman\documents\visual studio 2015\Projects\IMAGEENE\IMAGEENE\obj\Debug\IMAGEENE.csproj.GenerateResource.Cache
+c:\users\roman\documents\visual studio 2015\Projects\IMAGEENE\IMAGEENE\obj\Debug\IMAGEENE.exe
+c:\users\roman\documents\visual studio 2015\Projects\IMAGEENE\IMAGEENE\obj\Debug\IMAGEENE.pdb
+P:\Git Projects\college\Wstep do sieci neuronowych\IMAGEENE\IMAGEENE\bin\Debug\IMAGEENE.exe.config
+P:\Git Projects\college\Wstep do sieci neuronowych\IMAGEENE\IMAGEENE\bin\Debug\IMAGEENE.exe
+P:\Git Projects\college\Wstep do sieci neuronowych\IMAGEENE\IMAGEENE\bin\Debug\IMAGEENE.pdb
+P:\Git Projects\college\Wstep do sieci neuronowych\IMAGEENE\IMAGEENE\obj\Debug\IMAGEENE.csprojResolveAssemblyReference.cache
+P:\Git Projects\college\Wstep do sieci neuronowych\IMAGEENE\IMAGEENE\obj\Debug\IMAGEENE.Properties.Resources.resources
+P:\Git Projects\college\Wstep do sieci neuronowych\IMAGEENE\IMAGEENE\obj\Debug\IMAGEENE.csproj.GenerateResource.Cache
+P:\Git Projects\college\Wstep do sieci neuronowych\IMAGEENE\IMAGEENE\obj\Debug\IMAGEENE.exe
+P:\Git Projects\college\Wstep do sieci neuronowych\IMAGEENE\IMAGEENE\obj\Debug\IMAGEENE.pdb

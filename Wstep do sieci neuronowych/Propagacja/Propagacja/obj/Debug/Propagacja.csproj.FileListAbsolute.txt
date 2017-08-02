@@ -1,0 +1,28 @@
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\bin\Debug\Propagacja.exe.config
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\bin\Debug\Propagacja.exe
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\bin\Debug\Propagacja.pdb
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\Propagacja.csprojResolveAssemblyReference.cache
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\MainWindow.g.cs
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\App.g.cs
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\Propagacja_MarkupCompile.cache
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\Propagacja_MarkupCompile.lref
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\MainWindow.baml
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\Propagacja.g.resources
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\Propagacja.Properties.Resources.resources
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\Propagacja.csproj.GenerateResource.Cache
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\Propagacja.exe
+c:\users\roman\documents\visual studio 2015\Projects\Propagacja\Propagacja\obj\Debug\Propagacja.pdb
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\bin\Debug\Propagacja.exe.config
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\bin\Debug\Propagacja.exe
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\bin\Debug\Propagacja.pdb
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\Propagacja.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\MainWindow.g.cs
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\App.g.cs
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\Propagacja_MarkupCompile.cache
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\Propagacja_MarkupCompile.lref
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\MainWindow.baml
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\Propagacja.g.resources
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\Propagacja.Properties.Resources.resources
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\Propagacja.csproj.GenerateResource.Cache
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\Propagacja.exe
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Propagacja\Propagacja\obj\Debug\Propagacja.pdb

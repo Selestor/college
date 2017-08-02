@@ -1,0 +1,42 @@
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\bin\Debug\MaszynaLiniowa.exe.config
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\bin\Debug\MaszynaLiniowa.exe
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\bin\Debug\MaszynaLiniowa.pdb
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.csprojResolveAssemblyReference.cache
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\MainWindow.g.cs
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\App.g.cs
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\MaszynaLiniowa_MarkupCompile.cache
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\MaszynaLiniowa_MarkupCompile.lref
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\MainWindow.baml
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.g.resources
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.Properties.Resources.resources
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.csproj.GenerateResource.Cache
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.exe
+c:\users\roman\documents\visual studio 2015\Projects\MaszynaLiniowa\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.pdb
+C:\Users\Roman\Documents\visual studio 2015\Projects\Hopfield\MaszynaLiniowa\bin\Debug\MaszynaLiniowa.exe.config
+C:\Users\Roman\Documents\visual studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.exe
+C:\Users\Roman\Documents\visual studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.pdb
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\bin\Debug\MaszynaLiniowa.exe
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\bin\Debug\MaszynaLiniowa.pdb
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\MainWindow.g.cs
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\App.g.cs
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa_MarkupCompile.cache
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa_MarkupCompile.lref
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\MainWindow.baml
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.g.resources
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.Properties.Resources.resources
+C:\Users\Roman\Documents\Visual Studio 2015\Projects\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.csproj.GenerateResource.Cache
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\bin\Debug\MaszynaLiniowa.exe.config
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\bin\Debug\MaszynaLiniowa.exe
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\bin\Debug\MaszynaLiniowa.pdb
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.csprojResolveAssemblyReference.cache
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\MainWindow.g.cs
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\App.g.cs
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa_MarkupCompile.cache
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa_MarkupCompile.lref
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\MainWindow.baml
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.g.resources
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.Properties.Resources.resources
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.csproj.GenerateResource.Cache
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.exe
+P:\Git Projects\college\Wstep do sieci neuronowych\Hopfield\MaszynaLiniowa\obj\Debug\MaszynaLiniowa.pdb

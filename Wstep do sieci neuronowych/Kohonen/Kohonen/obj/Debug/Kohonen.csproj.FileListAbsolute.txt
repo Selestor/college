@@ -1,0 +1,28 @@
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\bin\Debug\Kohonen.exe.config
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\bin\Debug\Kohonen.exe
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\bin\Debug\Kohonen.pdb
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\Kohonen.csprojResolveAssemblyReference.cache
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\MainWindow.g.cs
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\App.g.cs
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\Kohonen_MarkupCompile.cache
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\Kohonen_MarkupCompile.lref
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\MainWindow.baml
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\Kohonen.g.resources
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\Kohonen.Properties.Resources.resources
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\Kohonen.csproj.GenerateResource.Cache
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\Kohonen.exe
+c:\users\roman\documents\visual studio 2015\Projects\Kohonen\Kohonen\obj\Debug\Kohonen.pdb
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\bin\Debug\Kohonen.exe.config
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\Kohonen.exe
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\Kohonen.pdb
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\bin\Debug\Kohonen.exe
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\bin\Debug\Kohonen.pdb
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\Kohonen.csprojResolveAssemblyReference.cache
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\MainWindow.g.cs
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\App.g.cs
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\Kohonen_MarkupCompile.cache
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\Kohonen_MarkupCompile.lref
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\MainWindow.baml
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\Kohonen.g.resources
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\Kohonen.Properties.Resources.resources
+P:\Git Projects\college\Wstep do sieci neuronowych\Kohonen\Kohonen\obj\Debug\Kohonen.csproj.GenerateResource.Cache

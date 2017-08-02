@@ -1,0 +1,41 @@
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\Perceptron.exe.config
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\Perceptron.exe
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\Perceptron.pdb
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\MainWindow.g.cs
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\App.g.cs
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron_MarkupCompile.cache
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron_MarkupCompile.lref
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\MainWindow.baml
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.g.resources
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.csproj.GenerateResource.Cache
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.exe
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.pdb
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.dll
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.pdb
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.xml
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Roman\Dropbox\Studia\Mgr\s2\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\GeneratedInternalTypeHelper.g.cs
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\Perceptron.exe.config
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\Perceptron.exe
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\Perceptron.pdb
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.dll
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.Wpf.dll
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.pdb
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.xml
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.Wpf.pdb
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\bin\Debug\OxyPlot.Wpf.xml
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\MainWindow.g.cs
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\App.g.cs
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron_MarkupCompile.cache
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron_MarkupCompile.lref
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\MainWindow.baml
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.g.resources
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.Properties.Resources.resources
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.csproj.GenerateResource.Cache
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.exe
+P:\Git Projects\college\Wstep do sieci neuronowych\Adaline\Perceptron_Cyfr\obj\Debug\Perceptron.pdb
